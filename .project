@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>cguimjava2-hw4-adam0321</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Card.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/cguimjava2-hw3-adam0321/Card.java</locationURI>
+		</link>
+		<link>
+			<name>Deck.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/cguimjava2-hw3-adam0321/Deck.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
